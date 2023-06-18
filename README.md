@@ -1,5 +1,6 @@
 # Api-rest
 ## Creation of a REST API with Node.js, Express and types, made with TypeScript.
+## "npm run dev" to be able to run the application, then you can enter the urls
 ## Data/Info http://localhost:3000/api/diaries
 ![api](https://github.com/D3R5/Api-rest/assets/117954097/fee07ea5-4acc-4dbb-a6d8-744d89bafa60)
 ## Post Info
